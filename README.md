@@ -1,16 +1,16 @@
-# random_name
+Namer App
+The Namer App is a fun and simple Flutter application that generates random English word pairs and
+lets users save their favorite ones. The app has a clean, user-friendly interface with two main
+features:
 
-A new Flutter project.
+Home: View random word pairs and like them to save them as favorites.
+Favorites: View and manage all liked word pairs.
+Features
+Random Word Pair Generation: Displays a random word pair every time the "Next" button is pressed.
+Favorites Management: Allows users to save their favorite word pairs by liking them. Users can view
+and delete saved pairs in the Favorites section.
+Navigation Rail: Simple and intuitive navigation between the "Home" and "Favorites" screens.
+Screenshots
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+image/Screenshot_home_screen.png
+image/Screenshot_home_screen.png
