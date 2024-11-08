@@ -12,5 +12,5 @@ and delete saved pairs in the Favorites section.
 Navigation Rail: Simple and intuitive navigation between the "Home" and "Favorites" screens.
 Screenshots
 
-image/Screenshot_home_screen.png
-image/Screenshot_home_screen.png
+![Screenshot_favorite_page.png](image%2FScreenshot_favorite_page.png)
+![Screenshot_home_screen.png](image%2FScreenshot_home_screen.png)
